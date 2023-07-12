@@ -1,2 +1,1 @@
-This is my test js code.
-My research.
+This is my js code.
